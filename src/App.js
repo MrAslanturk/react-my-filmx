@@ -5,7 +5,7 @@ import './App.css';
 import SearchIcon from './search.png';
 
 // a7a7fed8
-const API_URL = 'https://www.omdbapi.com?apikey=a7a7fed8';
+const API_URL = "https://www.omdbapi.com?apikey=a7a7fed8";
 const movie1 = {
         "Title": "Amazing Spiderman Syndrome",
         "Year": "2012",
