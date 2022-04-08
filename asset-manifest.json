@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-my-filmx/static/css/main.73bbc31b.css",
+    "main.js": "/react-my-filmx/static/js/main.ddb902b0.js",
+    "static/media/search.png": "/react-my-filmx/static/media/search.401b4eb0e134fee914c6.png",
+    "index.html": "/react-my-filmx/index.html",
+    "main.73bbc31b.css.map": "/react-my-filmx/static/css/main.73bbc31b.css.map",
+    "main.ddb902b0.js.map": "/react-my-filmx/static/js/main.ddb902b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73bbc31b.css",
+    "static/js/main.ddb902b0.js"
+  ]
+}
